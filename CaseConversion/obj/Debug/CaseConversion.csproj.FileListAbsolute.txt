@@ -1,0 +1,6 @@
+C:\Users\amand_000\Source\Repos\CaseConversion\CaseConversion\bin\Debug\CaseConversion.exe.config
+C:\Users\amand_000\Source\Repos\CaseConversion\CaseConversion\bin\Debug\CaseConversion.exe
+C:\Users\amand_000\Source\Repos\CaseConversion\CaseConversion\bin\Debug\CaseConversion.pdb
+C:\Users\amand_000\Source\Repos\CaseConversion\CaseConversion\obj\Debug\CaseConversion.csprojResolveAssemblyReference.cache
+C:\Users\amand_000\Source\Repos\CaseConversion\CaseConversion\obj\Debug\CaseConversion.exe
+C:\Users\amand_000\Source\Repos\CaseConversion\CaseConversion\obj\Debug\CaseConversion.pdb
